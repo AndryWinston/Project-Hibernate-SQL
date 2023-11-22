@@ -21,6 +21,7 @@ To do:
 10. Write a method for getting data from Redis and MySQL.
 11. Compare the speed of getting the same data from MySQL and Redis.
 
-MySQL: 
-user: root;
+MySQL Connection: 
+IP: 127.0.0.1:3306
+username: root,
 password: root;

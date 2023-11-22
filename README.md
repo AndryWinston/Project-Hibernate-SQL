@@ -1,4 +1,6 @@
-# Project4
+# Project about: SQL, JDBC & Hibernate
+
+Task:
 There is a relational MySQL database with a schema (country-city, language by country). 
 And there is a frequent request from the city, which slows down. 
 The solution is to move all the data that is requested frequently to Redis (in memory storage of the key–value type).
@@ -18,3 +20,7 @@ To do:
 9. Write data to Redis.
 10. Write a method for getting data from Redis and MySQL.
 11. Compare the speed of getting the same data from MySQL and Redis.
+
+MySQL: 
+user: root;
+password: root;
